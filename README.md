@@ -96,4 +96,10 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/gatsbyjs/gatsby-starter-default)
 
+## David's notes
+
+1. Pages go into `/src/pages`, where routes are set up to match the folder structure.
+2. Use `Link` from gatsby to link between pages.
+3. Use traditional `<a>` tags for external linking
+
 <!-- AUTO-GENERATED-CONTENT:END -->
